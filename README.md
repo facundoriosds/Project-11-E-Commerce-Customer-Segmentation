@@ -1,7 +1,7 @@
 ## E-Commerce Customer Segmentation
 
 ### Project Overview
-* Customer segmentation using K-Means
+* In this project we will perform customer segmentation using different clustering algorithms: K-Means, DBSCAN and Mean Shift.
 
 
 ### Code and Resources Used 
@@ -11,7 +11,11 @@
 ### Dataset
 The dataset is taken from The Kaggle Repository (https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data)  
 
+![](images/capture_0.PNG)
 ![](images/capture_1.PNG)
+![](images/capture_2.PNG)
+![](images/capture_3.PNG)
+
 
 
 
