@@ -6,7 +6,7 @@
 
 ### Code and Resources Used 
 **Python Version:** 3.7  
-**Packages:** pandas, numpy, matplotlib, seaborn, sklearn.
+**Packages:** pandas, numpy, matplotlib, seaborn, plotly, sklearn.
 
 ### Dataset
 The dataset is taken from The Kaggle Repository (https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data)  
@@ -15,6 +15,9 @@ The dataset is taken from The Kaggle Repository (https://www.kaggle.com/datasets
 ![](images/capture_1.PNG)
 ![](images/capture_2.PNG)
 ![](images/capture_3.PNG)
+
+### nbviewer
+* nbviewer link to visualize Plotly graphs: https://nbviewer.org/github/facundoriosds/Project-11-E-Commerce-Customer-Segmentation/blob/main/P_11.ipynb
 
 
 
